@@ -6,12 +6,12 @@ body{
     justify-content: center;
     align-items: center;
 
-    background-color: blue;
+    background-color: rgb(0, 89, 255);
 }
 .containder{
-    background-color: aqua;
+    background-color: rgb(255, 55, 0);
 }div#container {
-    background: powderblue;
+    background: rgb(150, 222, 232);
     padding: 19px;
     border-radius: 4%;
     box-shadow: 0px 2px 2px 2px cornflowerblue;
@@ -31,5 +31,5 @@ margin: 5px;
     cursor: pointer;
 }
 .remaing{
-    color: brown;
+    color: rgb(245, 54, 54);
 }
